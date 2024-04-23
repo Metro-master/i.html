@@ -1,0 +1,30 @@
+<html> 
+    <title> METRO ROYAL  </title>
+    <body style="background-color:black;color:white;font-family:sans-serif"> 
+    <header style="background-color:darkgreen"> 
+        <h1 style="text-aling:center;font-size:50px">   Меню </h1>
+    </header>
+
+    <main>
+        <h2 style="font-size:40px"> Интересное в метро </h2>
+        <p style="font-size:20px"> В этом сезоне хорошо,но в следующем будет лучше. Уже этим летом в метро рояль добавляют лобби рямо как в классическом режиме. Еще добавят режим дуо и новые патроны, у которых повышенный урон по конечностям. </p>
+        <img src="https://bogatyr.club/uploads/posts/2024-03/1710226164_bogatyr-club-ejwv-p-zastavka-metro-royal-1.jpg" width="400px" height="300px">
+        <table style="border: 2px solid red;border-collapse:collapse;background-color:blue;font-size:20px">
+            <tr  style="border: 2px solid red;border-collapse:collapse">
+                <td> Базовый </td>
+                <td> Продвинутый </td>
+            </tr>
+            <tr  style="border: 2px solid red;border-collapse:collapse"> 
+                <td> Не снимают вещи </td>
+                <td> Могут снять вещи </td> 
+            </tr>
+        </table>
+    </main>
+
+<footer style="background-color:lightblue">
+       <p style="font-size:20px"> Еще больше интереного скоро </p>
+       <p style="font-size:20px"> подробнее по телефону +3765840505 </p>
+     </footer>
+
+    </body>
+</html>
